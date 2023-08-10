@@ -20,15 +20,4 @@ This project, is a hands-on experience with the following:
 - **Form Management with React Hook Form**: Making forms user-friendly and efficient.
 - **Reusable Components**: Creating components that can be used throughout the app.
 - **Solid Application Architecture**: Building a scalable and maintainable structure.
-- **Deployment**: Learn how to get your application live and accessible to users.
-
-
-## Contribution
-
-Feel free to contribute to this exciting project by submitting pull requests or opening issues. Please make sure to read the [CONTRIBUTING.md](CONTRIBUTING.md) before you start.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE.md](LICENSE.md) file for details.
-
-Be part of the revolution that is reshaping the digital world. Get your hands dirty with Develop Threads and become a part of the fastest-growing app ever!
+- **Deployment**: How to get your application live and accessible to users.
