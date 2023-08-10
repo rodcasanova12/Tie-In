@@ -1,9 +1,9 @@
-# README for Develop Threads
+# README for Develop Tie In a Threads like app
 
 ## Summary
 Develop Threads is a groundbreaking Next.js 13 application that achieved an unparalleled milestone by registering 100 million sign-ups in under 5 days. This triumph has catapulted Develop Threads beyond industry giants like Twitter, ChatGPT, and TikTok, establishing it as the fastest-growing app in history!
 
-In this project, is a hands-on experience with the following:
+This project, is a hands-on experience with the following:
 
 ### Features
 
